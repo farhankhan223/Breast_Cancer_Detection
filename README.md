@@ -5,7 +5,7 @@ Breast cancer was the most common cancer in women in 157 countries out of 185 in
 Breast cancer occurs in every country in the world.<br>
 Approximately 0.5–1% of breast cancers occur in men.<br>
 
-xcited to share my recent project where I built a logistic regression model for breast cancer detection. Key highlights:
+Excited to share my recent project where I built a logistic regression model for breast cancer detection. Key highlights:
 
 🔍 Data Prep: Cleaned and processed the dataset, converting labels to binary.
 
